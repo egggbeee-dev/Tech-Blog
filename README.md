@@ -22,4 +22,5 @@ English learning for research and communication.
 ## 📰 Latest Posts
 
 <!-- TECH-BLOG:START -->
+- [* test](https://mydailyrecordof.tistory.com/43)
 <!-- TECH-BLOG:END -->
