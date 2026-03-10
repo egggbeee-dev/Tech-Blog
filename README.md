@@ -1,9 +1,9 @@
 # Tech-Blog 👩‍💻
 A collection of my learning notes on AI, robotics, and research.
-
+This blog is written in **both Korean and English**.  
+Posts may appear in either language depending on the topic and purpose.
 📖 Blog: https://mydailyrecordof.tistory.com
 
----
 
 ## 🤖 AI Study
 Notes from studying AI.
@@ -17,7 +17,6 @@ Technical implementations and experiments.
 ## 🌏 English
 English learning for research and communication.
 
----
 
 ## 📰 Latest Posts
 
