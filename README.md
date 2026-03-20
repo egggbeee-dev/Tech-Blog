@@ -9,5 +9,6 @@ This blog is written in **both Korean and English**.
 
 ## 📰 Latest Posts
 <!-- TECH-BLOG:START -->
+- [[Paper Review] ALFRED : A Benchmark for Interpreting Grounded Instructions for Everyday Tasks](https://mydailyrecordof.tistory.com/45)
 - [[Paper Review] MARF: Multi-scale Adaptive-switch Random Forestfor Leg Detection with 2D Laser Scanners](https://mydailyrecordof.tistory.com/44)
 <!-- TECH-BLOG:END -->
