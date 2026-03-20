@@ -10,5 +10,4 @@ This blog is written in **both Korean and English**.
 ## 📰 Latest Posts
 <!-- TECH-BLOG:START -->
 - [[Paper Review] MARF: Multi-scale Adaptive-switch Random Forestfor Leg Detection with 2D Laser Scanners](https://mydailyrecordof.tistory.com/44)
-- [* test](https://mydailyrecordof.tistory.com/43)
 <!-- TECH-BLOG:END -->
