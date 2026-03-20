@@ -28,3 +28,8 @@ jobs:
           comment_tag_name: "TECH-BLOG"
           user_agent: "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
           accept_header: "text/xml"
+
+          gh_token: ${{ secrets.BLOG_WORKFLOW_TOKEN }}
+          committer_username: "egggbeee"
+          committer_email: "cybermoleskine@naver.com"
+          commit_message: "Update README with latest blog posts"
